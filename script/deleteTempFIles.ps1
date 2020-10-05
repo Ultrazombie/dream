@@ -1,1 +1,2 @@
-$Temp = {1,2,3}
+Set-Location "$env:LOCALAPPDATA\temp"
+Remove-Item * -recurse -force   
