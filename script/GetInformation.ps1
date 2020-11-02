@@ -1,0 +1,9 @@
+Get-WMIObject -Class Win32_ComputerSystem 
+Get-WMIObject -Class Win32_BIOS 
+Get-WMIObject -Class Win32_Baseboard 
+Get-WMIObject -Class Win32_Processor 
+Get-WMIObject -Class Win32_LogicalDisk 
+Get-WMIObject -Class Win32_DiskDrive 
+Get-WMIObject -Class Win32_PhysicalMemory 
+Get-WMIObject -Class Win32_NetworkAdapter 
+Get-WMIObject -Class Win32_NetworkAdapterConfiguration
