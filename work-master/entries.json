@@ -1,0 +1,8 @@
+{
+  "index": [
+    "./src/index/index.js"
+  ],
+  "kris": [
+    "./src/kris/kris.js"
+  ]
+}
